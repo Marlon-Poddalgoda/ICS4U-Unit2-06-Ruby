@@ -8,7 +8,7 @@
 # @since   2021-05-26
 # frozen_string_literal: true
 
-load 'airplane.rb'
+load "airplane.rb"
 
 # This class makes a jet using the Airplane class
 class Jet < Airplane

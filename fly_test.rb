@@ -6,8 +6,8 @@
 # Since:   2021-05-26
 # frozen_string_literal: true
 
-load 'airplane.rb'
-load 'jet.rb'
+load "airplane.rb"
+load "jet.rb"
 
 # New instances
 plane = Airplane.new
